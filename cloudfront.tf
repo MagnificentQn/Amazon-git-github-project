@@ -1,1 +1,2 @@
-# cloudfront to catche the changes and update all
+# cloudfront to catche the changes and update 
+#origin ----> s3 bucket
